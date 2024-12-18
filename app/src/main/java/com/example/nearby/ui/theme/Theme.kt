@@ -1,4 +1,4 @@
-package com.example.nearby.ui.theme
+    package com.example.nearby.ui.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
