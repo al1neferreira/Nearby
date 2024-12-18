@@ -6,7 +6,8 @@ import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import com.example.nearby.R
+import com.rocketseat.nlw.nearby.R
+
 
 val rubikFontFamily = FontFamily(
     Font(R.font.rubik, FontWeight.Normal),
